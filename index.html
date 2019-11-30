@@ -4,7 +4,20 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Mat's Portfolio</title>
 	<style>
+		@keyframes fadein {
+			from {
+				opacity: 0;
+				transform: translateY(-1.5em);
+			}
+		
+			to {
+				opacity: 1;
+				transform: translateY(0);
+			}
+		}
+
 		body {
+			animation: fadein .6s;
 			color: hsl(0, 0%, 26%);
 			font-family: "Segoe UI", Cantarell, Arial, Roboto, sans-serif;
 			font-size: 1.05em;
@@ -53,6 +66,12 @@
 			
 			a {
 				color: #68ADE8;
+			}
+		}
+
+		@media (prefers-reduced-motion) {
+			* {
+				animation: none !important;
 			}
 		}
 	</style>
