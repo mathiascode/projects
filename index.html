@@ -5,7 +5,7 @@
 	<title>Mat's Portfolio</title>
 	<style>
 		body {
-			color: #444;
+			color: hsl(0, 0%, 26%);
 			font-family: "Segoe UI", Roboto, sans-serif;
 			line-height: 1.6;
 			margin: 0 auto;
@@ -42,6 +42,17 @@
 		a {
 			color: #1C70BA;
 			text-decoration: none;
+		}
+
+		@media (prefers-color-scheme: dark) {
+			body {
+				background: hsl(0, 0%, 10%);
+				color: hsl(0, 0%, 84%);
+			}
+			
+			a {
+				color: #4599E3;
+			}
 		}
 	</style>
 </head>
