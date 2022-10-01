@@ -36,7 +36,7 @@ A few open source projects I work on in my free time.
 
 Various Android apps I've worked on.
 
- * ### [Cuberite](https://github.com/cuberite/android) (contributor/maintainer)
+ * ### [Cuberite](https://github.com/cuberite/android)
 
    App for running the "Cuberite" game server on Android. I've redesigned the UI, fixed several bugs, and cleaned 
    up the code base. Current maintainer.
