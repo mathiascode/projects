@@ -34,17 +34,16 @@ A few open source projects I work on in my free time.
 
 ## Android Apps
 
-Various Android apps I've worked on.
+Various Android apps I have developed.
 
  * ### [Cuberite](https://github.com/cuberite/android)
 
-   App for running the "Cuberite" game server on Android. I've redesigned the UI, fixed several bugs, and cleaned 
-   up the code base. Current maintainer.
+   App for running and managing the Cuberite game server on a mobile device.
 
 
 ## Bukkit Plugins
 
-Various Java-based plugins I've developed for the "Kaboom" multiplayer server.
+Various Java-based plugins I have developed for the Kaboom multiplayer server.
 
  * ### [CommandSpy](https://github.com/kaboomserver/commandspy)
 
@@ -69,7 +68,7 @@ Various Java-based plugins I've developed for the "Kaboom" multiplayer server.
 
 ## Cuberite Plugins
 
-Various Lua-based plugins for the "Cuberite" game server software.
+Various Lua-based plugins I have developed for the Cuberite game server software.
 
  * ### [CommandSpy](https://github.com/mathiascode/CommandSpy)
 
@@ -118,7 +117,7 @@ Various Lua-based plugins for the "Cuberite" game server software.
 
 ## Website Designs
 
-Various website designs I've created and implemented.
+Various website designs I have created and implemented.
 
  * ### [Cuberite](https://cuberite.org/) ([source code](https://github.com/cuberite/cuberite.github.io))
 
