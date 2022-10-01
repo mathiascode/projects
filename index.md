@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# {{ site.title }}
+# {{ site.title }} {{ site.logo }}
 
 Some of the things I have created and contributed to in recent years.
 
