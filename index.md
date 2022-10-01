@@ -16,20 +16,20 @@ A few open source projects I work on in my free time.
    Maintainer and developer. The project dates back to 2001, with multiple developers working on it over the years. 
    Currently working on bug fixes, UX improvements and refactoring legacy code.
 
-   **2020 - present**
+   *2020 - present*
 
  * ### [Cuberite](https://github.com/cuberite) - Custom, lightweight server implementation for Minecraft
 
    Co-maintainer and developer. Currently working on the Android app and plugins, with previous contributions to 
    the server core, documentation, CI/builds and main website.
 
-   **2014 - present**
+   *2014 - present*
 
  * ### [tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio metadata
 
    Co-maintainer and developer. Currently working on fixing any bugs related to incorrecty reading metadata.
 
-   **2021 - present**
+   *2021 - present*
 
 
 ## Android Apps
