@@ -86,10 +86,6 @@ Various Lua-based plugins I have developed for the Cuberite game server software
 
    Plugin that implements useful additional features, such as homes and warps.
 
- * ### [ExecuteCommandBlock](https://github.com/mathiascode/ExecuteCommandBlock)
-
-   Plugin that allows players to execute command blocks in Cuberite.
-
  * ### [Extras](https://github.com/mathiascode/Extras)
 
    Plugin that adds extra functionality to the Kaboom.pw server (archived).
@@ -101,10 +97,6 @@ Various Lua-based plugins I have developed for the Cuberite game server software
  * ### [MagicCarpet](https://github.com/cuberite/MagicCarpet) (contributor)
 
    Plugin that adds flying carpets.
-
- * ### [MobSound](https://github.com/mathiascode/MobSound)
-
-   Plugin that allows you to broadcast a mob sound at your current location.
 
  * ### [ParticleTrails](https://github.com/mathiascode/ParticleTrails)
 
