@@ -107,17 +107,21 @@ Various Lua-based plugins I have developed for the Cuberite game server software
    Plugin that adds weapons to a server.
 
 
-## Website Designs
+## Websites
 
-Various website designs I have created and implemented.
+Various websites I have previously designed and implemented from scratch.
 
  * ### [Cuberite](https://cuberite.org/) ([source code](https://github.com/cuberite/cuberite.github.io))
 
-   Website for the "Cuberite" project, designed and implemented from scratch.
+   Website for the "Cuberite" project.
+   
+   *2015 - 2020*
 
  * ### [Kaboom](https://kaboom.pw/) ([source code](https://github.com/kaboomserver/kaboom.pw))
 
-   Website for the "Kaboom" multiplayer server, designed and implemented from scratch.
+   Website for the "Kaboom" multiplayer server.
+   
+   *2014 - 2020*
 
 
 ## Links
