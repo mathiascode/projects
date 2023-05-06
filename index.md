@@ -11,125 +11,125 @@ Some of the things I have created and contributed to in recent years.
 
 A few open source projects I work on in my free time.
 
- * ### [Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek P2P network
+### [Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek P2P network
 
-   Maintainer and developer. The project dates back to 2001, with multiple developers working on it over the years. 
-   Currently working on bug fixes, UX improvements and refactoring legacy code.
+Maintainer and developer. The project dates back to 2001, with multiple developers working on it over the years. 
+Currently working on bug fixes, UX improvements and refactoring legacy code.
 
-   *2020 - present*
+*2020 - present*
 
- * ### [Cuberite](https://github.com/cuberite) - Custom, lightweight server implementation for Minecraft
+### [Cuberite](https://github.com/cuberite) - Custom, lightweight server implementation for Minecraft
 
-   Co-maintainer and developer. Currently working on the Android app and plugins, with previous contributions to 
-   the server core, documentation, CI/builds and main website.
+Co-maintainer and developer. Currently working on the Android app and plugins, with previous contributions to 
+the server core, documentation, CI/builds and main website.
 
-   *2014 - present*
+*2014 - present*
 
- * ### [tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio metadata
+### [tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio metadata
 
-   Co-maintainer and developer. Currently working on fixing any bugs related to incorrecty reading metadata.
+Co-maintainer and developer. Currently working on fixing any bugs related to incorrecty reading metadata.
 
-   *2021 - present*
+*2021 - present*
 
 
 ## Android Apps
 
 Various Android apps I have developed.
 
- * ### [Cuberite](https://github.com/cuberite/android)
+### [Cuberite](https://github.com/cuberite/android)
 
-   App for running and managing the Cuberite game server on a mobile device.
+App for running and managing the Cuberite game server on a mobile device.
 
 
 ## Bukkit Plugins
 
 Various Java-based plugins I have developed for the Kaboom multiplayer server.
 
- * ### [CommandSpy](https://github.com/kaboomserver/commandspy)
+### [CommandSpy](https://github.com/kaboomserver/commandspy)
 
-   Plugin that reveals commands executed by other players.
+Plugin that reveals commands executed by other players.
 
- * ### [Extras](https://github.com/kaboomserver/extras)
+### [Extras](https://github.com/kaboomserver/extras)
 
-   Plugin that adds several features and tweaks for Kaboom.
+Plugin that adds several features and tweaks for Kaboom.
 
- * ### [iControlU](https://github.com/kaboomserver/icontrolu)
+### [iControlU](https://github.com/kaboomserver/icontrolu)
 
-   Plugin that allows players to control movement of other players.
+Plugin that allows players to control movement of other players.
 
- * ### [ParticleTrails](https://github.com/kaboomserver/particletrails)
+### [ParticleTrails](https://github.com/kaboomserver/particletrails)
 
-   Plugin that that creates particle trails behind players.
+Plugin that that creates particle trails behind players.
 
- * ### [Weapons](https://github.com/kaboomserver/weapons)
+### [Weapons](https://github.com/kaboomserver/weapons)
 
-   Plugin that adds several different weapons that players can use.
+Plugin that adds several different weapons that players can use.
 
 
 ## Cuberite Plugins
 
 Various Lua-based plugins I have developed for the Cuberite game server software.
 
- * ### [CommandSpy](https://github.com/mathiascode/CommandSpy)
+### [CommandSpy](https://github.com/mathiascode/CommandSpy)
 
-   Plugin that allows players to view commands executed by other players.
+Plugin that allows players to view commands executed by other players.
 
- * ### [Core](https://github.com/cuberite/Core) (contributor)
+### [Core](https://github.com/cuberite/Core) (contributor)
 
-   Plugin that implements default commands and some additional functionality.
+Plugin that implements default commands and some additional functionality.
 
- * ### [Disguises](https://github.com/mathiascode/Disguises)
+### [Disguises](https://github.com/mathiascode/Disguises)
 
-   Plugin that allows you to disguise as an entity.
+Plugin that allows you to disguise as an entity.
 
- * ### [Essentials](https://github.com/cuberite/Essentials) (contributor)
+### [Essentials](https://github.com/cuberite/Essentials) (contributor)
 
-   Plugin that implements useful additional features, such as homes and warps.
+Plugin that implements useful additional features, such as homes and warps.
 
- * ### [Extras](https://github.com/mathiascode/Extras)
+### [Extras](https://github.com/mathiascode/Extras)
 
-   Plugin that adds extra functionality to the Kaboom.pw server (archived).
+Plugin that adds extra functionality to the Kaboom.pw server (archived).
 
- * ### [iControlU](https://github.com/mathiascode/iControlU)
+### [iControlU](https://github.com/mathiascode/iControlU)
 
-   Plugin that allows players to control other players.
+Plugin that allows players to control other players.
 
- * ### [MagicCarpet](https://github.com/cuberite/MagicCarpet) (contributor)
+### [MagicCarpet](https://github.com/cuberite/MagicCarpet) (contributor)
 
-   Plugin that adds flying carpets.
+Plugin that adds flying carpets.
 
- * ### [ParticleTrails](https://github.com/mathiascode/ParticleTrails)
+### [ParticleTrails](https://github.com/mathiascode/ParticleTrails)
 
-   Plugin that creates particle trails behind players.
+Plugin that creates particle trails behind players.
 
- * ### [Weapons](https://github.com/mathiascode/Weapons)
+### [Weapons](https://github.com/mathiascode/Weapons)
 
-   Plugin that adds weapons to a server.
+Plugin that adds weapons to a server.
 
 
 ## Websites
 
 Various websites I have previously designed and implemented from scratch.
 
- * ### [Cuberite](https://cuberite.org/) ([source code](https://github.com/cuberite/cuberite.github.io))
+### [Cuberite](https://cuberite.org/) ([source code](https://github.com/cuberite/cuberite.github.io))
 
-   Website for the "Cuberite" project.
-   
-   *2015 - 2020*
+Website for the "Cuberite" project.
 
- * ### [Kaboom](https://kaboom.pw/) ([source code](https://github.com/kaboomserver/kaboom.pw))
+*2015 - 2020*
 
-   Website for the "Kaboom" multiplayer server.
-   
-   *2014 - 2020*
+### [Kaboom](https://kaboom.pw/) ([source code](https://github.com/kaboomserver/kaboom.pw))
+
+Website for the "Kaboom" multiplayer server.
+
+*2014 - 2020*
 
 
 ## Links
 
- * ### [GitHub Profile](https://github.com/mathiascode)
+### [GitHub Profile](https://github.com/mathiascode)
 
-   For smaller projects and contributions not listed above.
+For smaller projects and contributions not listed above.
 
- * ### [&#109;&#97;&#x69;&#108;&#x40;&#109;&#97;&#116;&#x68;&#105;&#97;&#x73;&#x2e;&#105;&#x73;](&#109;&#x61;&#x69;&#108;&#116;&#x6f;:&#109;&#97;&#x69;&#108;&#x40;&#109;&#97;&#116;&#x68;&#105;&#97;&#x73;&#x2e;&#105;&#x73;)
+### [&#109;&#97;&#x69;&#108;&#x40;&#109;&#97;&#116;&#x68;&#105;&#97;&#x73;&#x2e;&#105;&#x73;](&#109;&#x61;&#x69;&#108;&#116;&#x6f;:&#109;&#97;&#x69;&#108;&#x40;&#109;&#97;&#116;&#x68;&#105;&#97;&#x73;&#x2e;&#105;&#x73;)
 
-   If you need to contact me.
+If you need to contact me.
