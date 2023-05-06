@@ -32,13 +32,13 @@ Co-maintainer and developer. Currently working on fixing any bugs related to inc
 *2021 - present*
 
 
-## Android Apps
+## Mobile Apps
 
-Various Android apps I have developed.
+Various mobile apps I have developed.
 
 ### [Cuberite](https://github.com/cuberite/android)
 
-App for running and managing the Cuberite game server on a mobile device.
+App for running and managing a Minecraft server on a mobile device.
 
 
 ## Bukkit Plugins
