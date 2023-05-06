@@ -117,7 +117,7 @@ Website for the "Cuberite" project.
 
 *2015 - 2020*
 
-### [Kaboom](https://kaboom.pw/) ([source code](https://github.com/kaboomserver/kaboom.pw))
+### [Kaboom](https://kaboom.pw/) ([source code](https://github.com/kaboomserver/website))
 
 Website for the "Kaboom" multiplayer server.
 
