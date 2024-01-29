@@ -18,18 +18,18 @@ Currently working on bug fixes, UX improvements and refactoring legacy code.
 
 *2020 - present*
 
-### [Cuberite](https://github.com/cuberite) - Custom, lightweight server implementation for Minecraft
-
-Co-maintainer and developer. Currently working on the Android app and plugins, with previous contributions to 
-the server core, documentation, CI/builds and main website.
-
-*2014 - present*
-
 ### [tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio metadata
 
 Co-maintainer and developer. Currently working on fixing any bugs related to incorrecty reading metadata.
 
 *2021 - present*
+
+### [Cuberite](https://github.com/cuberite) - Custom, lightweight server implementation for Minecraft
+
+Co-maintainer and developer. Previous contributions to the server core, plugins, Android app, documentation,
+CI/builds and main website.
+
+*2014 - 2023*
 
 
 ## Mobile Apps
