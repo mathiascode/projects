@@ -26,7 +26,7 @@ Co-maintainer and developer. Currently working on fixing any bugs related to inc
 
 ### [Cuberite](https://github.com/cuberite) - Custom, lightweight server implementation for Minecraft
 
-Co-maintainer and developer. Occasionally working on the Android app. Previous contributions to the server
+Co-maintainer and developer. Occasionally working on the Android app. Previous contributions to the server 
 core, plugins, documentation, CI/builds and main website.
 
 *2014 - present*
