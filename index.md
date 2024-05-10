@@ -26,7 +26,7 @@ Co-maintainer and developer. Currently working on fixing any bugs related to inc
 
 ### [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Single-player tile-matching game for GNOME
 
-Maintainer and developer. Currently working on bug fixes and keeping up with changes in the [GNOME Human Interface Guidelines](https://developer.gnome.org/hig/).
+Maintainer and developer. Currently working on bug fixes and keeping up with changes in the GNOME Human Interface Guidelines.
 
 *2024 - present*
 
