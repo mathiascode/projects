@@ -9,7 +9,7 @@ Some of the things I have created and contributed to in recent years.
 
 ## Project Contributions
 
-A few open source projects I work on in my free time.
+A few open source projects I work on in my free time, sorted by priority.
 
 ### [Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek P2P network
 
@@ -23,6 +23,12 @@ Currently working on bug fixes, UX improvements and refactoring legacy code.
 Co-maintainer and developer. Currently working on fixing any bugs related to incorrecty reading metadata.
 
 *2021 - present*
+
+### [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Single-player tile-matching game for GNOME
+
+Maintainer and developer. Currently working on bug fixes and keeping up with changes in the [GNOME Human Interface Guidelines](https://developer.gnome.org/hig/).
+
+*2024 - present*
 
 ### [Cuberite](https://github.com/cuberite) - Custom, lightweight server implementation for Minecraft
 
