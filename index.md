@@ -4,7 +4,7 @@ layout: default
 
 # {{ site.title }} {{ site.logo }}
 
-Some of the things I have created and contributed to in recent years.
+Some of the things I have created and contributed to.
 
 
 ## Project Contributions
@@ -115,15 +115,25 @@ Plugin that adds weapons to a server.
 
 ## Websites
 
-Various websites I have designed and implemented from scratch (*2014 – 2020*).
+Various websites I have designed and implemented from scratch (*2011 – 2020*).
 
-### [Cuberite](https://cuberite.org/) ([source code](https://github.com/cuberite/cuberite.github.io))
+### [Cuberite](https://cuberite.org/)
 
-Website for the "Cuberite" project.
+Website for the Cuberite project.
 
-### [Kaboom](https://kaboom.pw/) ([source code](https://github.com/kaboomserver/website))
+*2015 – 2020*
 
-Website for the "Kaboom" multiplayer server.
+### [Kaboom](https://kaboom.pw/)
+
+Website for the Kaboom multiplayer server.
+
+*2014 – 2020*
+
+### [CutURL](archive/cuturl/index.html)
+
+Website for the CutURL URL shortener.
+
+*2011 – 2014*
 
 
 ## Links

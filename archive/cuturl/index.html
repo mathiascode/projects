@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>CutURL » Shorten URLs</title>
+<meta name="description" content="CutURL is a simple, fast and free URL shortener. Use CutURL to shorten long URLs to small URLs, so they don't break in messages and chatboxes."/>
+<meta name="keywords" content="cuturl, url shortener, free url shortener, simple url shortener, shorten url, shorten urls, shorten long url, shorten long urls, url redirect, short url"/>
+<link type="text/css" rel="stylesheet" href="css/style.css"/>
+<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="js/tipsy.js"></script>
+</head>
+<body>
+<div id="container">
+<span class="error_msg"></span>
+<noscript><div id="formerror">Please activate JavaScript in your browser settings for a better experience!</div></noscript>
+<div class="navbar">
+<div id="logo"><a href="index.html">CutURL</a></div>
+<ul>
+<li><a href="index.html" class="current">shorten</a></li>
+<li><a href="utilities.html">utilities</a></li>
+<li><a href="agreement.html">agreement</a></li>
+<li><a href="contact-us.html">contact us</a></li>
+<li><a href="affiliates.html">affiliates</a></li>
+</ul>
+</div>
+<div id="mainbox"><div id="pagetitle">&#9986; Shorten</div>
+<div id="innerbox">
+<form method="post" id="shortener">
+<p><input type="text" name="longurl" id="longurl" title="Please enter a valid URL!" value="http://" pattern="|^\S+://\S+\.\S+.+$|" required/>&nbsp;<input type="submit" class="greenbutton" value="Shorten"/></p>
+</form>
+</div>
+</div>
+<div id="social-tabs" align="right">
+<a href="#" title="Facebook" id="facebook-tab" target="_blank">f</a>
+<a href="#" title="Twitter" id="twitter-tab" target="_blank">t</a>
+<a href="#" title="Google Plus" id="googleplus-tab" target="_blank">g</a></div>
+</div>
+</body>
+</html>
