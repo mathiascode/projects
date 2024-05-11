@@ -16,31 +16,31 @@ A few open source projects I work on in my free time, sorted by priority.
 Maintainer and developer. The project dates back to 2001, with multiple developers working on it over the years. 
 Currently working on bug fixes, UX improvements and refactoring legacy code.
 
-*2020 - present*
+*2020 – present*
 
 ### [tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio metadata
 
 Co-maintainer and developer. Currently working on fixing any bugs related to incorrecty reading metadata.
 
-*2021 - present*
+*2021 – present*
 
 ### [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Single-player tile-matching game for GNOME
 
 Maintainer and developer. Currently working on bug fixes and keeping up with changes in the GNOME Human Interface Guidelines.
 
-*2024 - present*
+*2024 – present*
 
 ### [Cuberite](https://github.com/cuberite) - Custom, lightweight server implementation for Minecraft
 
 Co-maintainer and developer. Occasionally working on the Android app. Previous contributions to the server 
 core, plugins, documentation, CI/builds and main website.
 
-*2014 - present*
+*2014 – present*
 
 
 ## Mobile Apps
 
-Various mobile apps I have developed.
+Various mobile apps I have developed (*2019 – present*).
 
 ### [Cuberite](https://github.com/cuberite/android)
 
@@ -49,7 +49,7 @@ App for running and managing a Minecraft server on a mobile device.
 
 ## Bukkit Plugins
 
-Various Java-based plugins I have developed for the Kaboom multiplayer server.
+Various Java-based plugins I have developed for the Kaboom multiplayer server (*2018 – 2022*).
 
 ### [CommandSpy](https://github.com/kaboomserver/commandspy)
 
@@ -74,7 +74,7 @@ Plugin that adds several different weapons that players can use.
 
 ## Cuberite Plugins
 
-Various Lua-based plugins I have developed for the Cuberite game server software.
+Various Lua-based plugins I have developed for the Cuberite game server software (*2015 – 2020*).
 
 ### [CommandSpy](https://github.com/mathiascode/CommandSpy)
 
@@ -94,7 +94,7 @@ Plugin that implements useful additional features, such as homes and warps.
 
 ### [Extras](https://github.com/mathiascode/Extras)
 
-Plugin that adds extra functionality to the Kaboom.pw server (archived).
+Plugin that adds extra functionality to the Kaboom.pw server.
 
 ### [iControlU](https://github.com/mathiascode/iControlU)
 
@@ -115,19 +115,15 @@ Plugin that adds weapons to a server.
 
 ## Websites
 
-Various websites I have previously designed and implemented from scratch.
+Various websites I have previously designed and implemented from scratch (*2014 – 2020*).
 
 ### [Cuberite](https://cuberite.org/) ([source code](https://github.com/cuberite/cuberite.github.io))
 
 Website for the "Cuberite" project.
 
-*2015 - 2020*
-
 ### [Kaboom](https://kaboom.pw/) ([source code](https://github.com/kaboomserver/website))
 
 Website for the "Kaboom" multiplayer server.
-
-*2014 - 2020*
 
 
 ## Links
