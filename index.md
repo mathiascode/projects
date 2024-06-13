@@ -18,7 +18,7 @@ Currently working on bug fixes, UX improvements and refactoring legacy code.
 
 *2020 – present*
 
-### [tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio metadata
+### [tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio metadata
 
 Co-maintainer and developer. Currently working on fixing any bugs related to incorrecty reading metadata.
 
