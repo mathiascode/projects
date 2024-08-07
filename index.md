@@ -40,7 +40,7 @@ core, plugins, documentation, CI/builds and main website.
 
 ## Mobile Apps
 
-Various mobile apps I have developed (*2019 – present*).
+Various mobile apps I have developed *(2019 – present)*.
 
 ### [Cuberite](https://github.com/cuberite/android)
 
@@ -49,7 +49,7 @@ App for running and managing a Minecraft server on a mobile device.
 
 ## Bukkit Plugins
 
-Various Java-based Minecraft plugins I have developed for Bukkit servers (*2018 – 2022*).
+Various Java-based Minecraft plugins I have developed for Bukkit servers *(2018 – 2022)*.
 
 ### [CommandSpy](https://github.com/kaboomserver/commandspy)
 
@@ -74,7 +74,7 @@ Plugin that adds several different weapons that players can use.
 
 ## Cuberite Plugins
 
-Various Lua-based Minecraft plugins I have developed for Cuberite (*2015 – 2020*).
+Various Lua-based Minecraft plugins I have developed for Cuberite *(2015 – 2020)*.
 
 ### [CommandSpy](https://github.com/mathiascode/CommandSpy)
 
@@ -115,7 +115,7 @@ Plugin that adds weapons to a server.
 
 ## Websites
 
-Various websites I have designed and implemented from scratch (*2011 – 2020*).
+Various websites I have designed and implemented from scratch *(2011 – 2020)*.
 
 ### [Cuberite](https://cuberite.org/)
 
