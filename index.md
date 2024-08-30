@@ -37,15 +37,6 @@ core, plugins, documentation, CI/builds and main website.
 *2014 – present*
 
 
-## Mobile Apps
-
-Various mobile apps I have developed *(2019 – present)*.
-
-### [Cuberite](https://github.com/cuberite/android)
-
-App for running and managing a Minecraft server on a mobile device.
-
-
 ## Bukkit Plugins
 
 Various Java-based Minecraft plugins I have developed for Bukkit servers *(2018 – 2022)*.
