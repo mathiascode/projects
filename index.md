@@ -4,7 +4,7 @@ layout: default
 
 # {{ site.title }} {{ site.logo }}
 
-Some of the things I have created and contributed to.
+Some of the things I have created and worked on.
 
 
 ## Project Contributions
@@ -13,20 +13,19 @@ A few open source projects I work on in my free time, sorted by priority.
 
 ### [Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek P2P network
 
-Maintainer and developer. The project dates back to 2001, with multiple developers working on it over the years. 
-Currently working on bug fixes, UX improvements and refactoring legacy code.
+Maintainer and developer. Numerous accomplishments over the years, including implementing requested features, bug fixes, UX/UI improvements, performance optimizations, as well as modernizing the codebase and tooling.
 
 *2020 – present*
 
 ### [tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio metadata
 
-Co-maintainer and developer. Currently working on fixing any bugs related to incorrecty reading metadata.
+Co-maintainer and developer. Accomplishments include numerous fixes related to incorrectly reading metadata, support for new audio file formats and features, as well as improvements to the API.
 
 *2021 – present*
 
 ### [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Single-player tile-matching game for GNOME
 
-Maintainer and developer. Currently working on bug fixes and keeping up with changes in the GNOME Human Interface Guidelines.
+Maintainer and developer. Accomplishments include bug fixes and keeping up with changes in the GNOME Human Interface Guidelines.
 
 *2024 – present*
 
