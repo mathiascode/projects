@@ -37,9 +37,9 @@ core, plugins, documentation, CI/builds and main website.
 *2014 – present*
 
 
-## Bukkit Plugins
+## Bukkit Plugins (2018 – 2022)
 
-Various Java-based Minecraft plugins I have developed for Bukkit servers *(2018 – 2022)*.
+Various Java-based Minecraft plugins I have developed for Bukkit servers.
 
 ### [CommandSpy](https://github.com/kaboomserver/commandspy)
 
@@ -62,9 +62,9 @@ Plugin that that creates particle trails behind players.
 Plugin that adds several different weapons that players can use.
 
 
-## Cuberite Plugins
+## Cuberite Plugins (2015 – 2020)
 
-Various Lua-based Minecraft plugins I have developed for Cuberite *(2015 – 2020)*.
+Various Lua-based Minecraft plugins I have developed for Cuberite.
 
 ### [CommandSpy](https://github.com/mathiascode/CommandSpy)
 
@@ -103,9 +103,9 @@ Plugin that creates particle trails behind players.
 Plugin that adds weapons to a server.
 
 
-## Websites
+## Websites (2011 – 2020)
 
-Various websites I have designed and implemented from scratch *(2011 – 2020)*.
+Various websites I have designed and implemented from scratch.
 
 ### [Cuberite](https://cuberite.org/)
 
