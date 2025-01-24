@@ -19,13 +19,13 @@ Maintainer and developer. Numerous accomplishments over the years, including imp
 
 ### [tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio metadata
 
-Co-maintainer and developer. Accomplishments include numerous fixes related to incorrectly reading metadata, support for new audio file formats and features, as well as improvements to the API.
+Maintainer and developer. Accomplishments include numerous fixes related to incorrectly reading metadata, support for new audio file formats and features, as well as improvements to the API.
 
 *2021 – present*
 
 ### [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Single-player tile-matching game for GNOME
 
-Maintainer and developer. Accomplishments include bug fixes and keeping up with changes in the GNOME Human Interface Guidelines.
+Maintainer and developer. Accomplishments include numerous performance optimizations, bug fixes and keeping up with changes in the GNOME Human Interface Guidelines.
 
 *2024 – present*
 
