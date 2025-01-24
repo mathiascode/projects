@@ -25,11 +25,13 @@ Maintainer and developer. Accomplishments include numerous fixes related to inco
 
 *2021 – present*
 
-### [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Single-player tile-matching game for GNOME
+### [GNOME](https://www.gnome.org/) - Free and open source software ecosystem
 
-Maintainer and developer. Accomplishments include numerous performance optimizations, bug fixes and keeping up with changes in the GNOME Human Interface Guidelines.
+Contributor. Currently working on the single-player tile-matching game [GNOME Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg), with accomplishments including numerous performance optimizations, bug fixes and keeping up with changes in the GNOME Human Interface Guidelines.
 
-*2024 – present*
+Occasionally contributing to [GTK](https://gtk.org/), [PyGObject](https://pygobject.gnome.org/) and elsewhere when needed.
+
+*2020 – present*
 
 ### [Cuberite](https://github.com/cuberite) - Custom, lightweight server implementation for Minecraft
 
