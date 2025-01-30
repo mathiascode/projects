@@ -4,7 +4,7 @@ layout: default
 
 # {{ site.title }} {{ site.logo }}
 
-Some of the things I have created and worked on.
+Some of the things I have worked on so far.
 
 
 ## Project Contributions
