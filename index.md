@@ -15,7 +15,7 @@ A few open source projects I work on in my free time, sorted by priority.
 
 Maintainer and developer. Numerous accomplishments over the years, including implementing requested features, bug fixes, UX/UI improvements, performance optimizations, as well as modernizing the codebase and tooling.
 
-Occasionally working on [Soulfind](https://github.com/soulfind-dev/soulfind), a Soulseek server implementation written in D.
+Occasionally working on [Soulfind](https://github.com/soulfind-dev/soulfind), a Soulseek server implementation written in [D](https://dlang.org/) (nice little language).
 
 *2020 – present*
 
