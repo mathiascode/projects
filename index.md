@@ -15,7 +15,15 @@ A few open source projects I work on in my free time, sorted by priority.
 
 Maintainer and developer. Numerous accomplishments over the years, including implementing requested features, bug fixes, UX/UI improvements, performance optimizations, as well as modernizing the codebase and tooling.
 
-Occasionally working on [Soulfind](https://github.com/soulfind-dev/soulfind), a Soulseek server implementation written in [D](https://dlang.org/) (nice little language).
+Occasionally working on [Soulfind](https://github.com/soulfind-dev/soulfind), a Soulseek server implementation written in [D](https://dlang.org/).
+
+*2020 – present*
+
+### [GNOME](https://www.gnome.org/) - Free and open source software environment
+
+Contributor. Currently working on the single-player tile-matching game [GNOME Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg), with accomplishments including performance optimizations, bug fixes and keeping up with changes in the [GNOME HIG](https://developer.gnome.org/hig/).
+
+Occasionally contributing to [GTK](https://gtk.org/), [PyGObject](https://pygobject.gnome.org/) and elsewhere when needed.
 
 *2020 – present*
 
@@ -24,14 +32,6 @@ Occasionally working on [Soulfind](https://github.com/soulfind-dev/soulfind), a 
 Maintainer and developer. Accomplishments include numerous fixes related to incorrectly reading metadata, support for new audio file formats and features, as well as improvements to the API.
 
 *2021 – present*
-
-### [GNOME](https://www.gnome.org/) - Free and open source software environment
-
-Contributor. Currently working on the single-player tile-matching game [GNOME Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg), with accomplishments including numerous performance optimizations, bug fixes and keeping up with changes in the GNOME Human Interface Guidelines.
-
-Occasionally contributing to [GTK](https://gtk.org/), [PyGObject](https://pygobject.gnome.org/) and elsewhere when needed.
-
-*2020 – present*
 
 ### [Cuberite](https://github.com/cuberite) - Lightweight server implementation for Minecraft
 
