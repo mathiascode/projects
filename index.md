@@ -21,7 +21,7 @@ Occasionally working on [Soulfind](https://github.com/soulfind-dev/soulfind), a 
 
 ### [GNOME](https://www.gnome.org/) - Free and open source software environment
 
-Contributor. Currently working on the single-player tile-matching game [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg), with accomplishments including performance optimizations, bug fixes and keeping up with changes in the [GNOME HIG](https://developer.gnome.org/hig/).
+Member and contributor. Currently working on the single-player tile-matching game [Mahjongg](https://apps.gnome.org/Mahjongg/), with accomplishments including performance optimizations, bug fixes and keeping up with changes in the [GNOME HIG](https://developer.gnome.org/hig/).
 
 Occasionally contributing to [GTK](https://gtk.org/), [PyGObject](https://pygobject.gnome.org/) and elsewhere when needed.
 
