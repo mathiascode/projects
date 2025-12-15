@@ -7,36 +7,39 @@ layout: default
 Some of the things I have worked on so far.
 
 
-## Project Contributions
+## Open Source Work
 
-A few open source projects I work on in my free time, sorted by priority.
+A few open source projects I spend my free time on.
 
 ### [Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek P2P network
 
-Maintainer and developer. Numerous accomplishments over the years, including implementing requested features, bug fixes, UX/UI improvements, performance optimizations, as well as modernizing the codebase and tooling.
-
-Occasionally working on [Soulfind](https://github.com/soulfind-dev/soulfind), a Soulseek server implementation written in [D](https://dlang.org/).
+Maintainer and developer. Popular third-party Soulseek client with quality of life features and low resource usage. Numerous accomplishments over the years, including feature requests, bug fixes, coordination, UX/UI improvements, performance optimizations, as well as modernizing the codebase and tooling.
 
 *2020 – present*
 
-### [GNOME](https://www.gnome.org/) - Free and open source software environment
+### [Soulfind](https://github.com/soulfind-dev/soulfind) - Soulseek server implementation in D
 
-Member and contributor. Currently working on the single-player tile-matching game [Mahjongg](https://apps.gnome.org/Mahjongg/), with accomplishments including performance optimizations, bug fixes and keeping up with changes in the [GNOME HIG](https://developer.gnome.org/hig/).
+Maintainer and developer. Turned Soulfind into an open source reference implementation of the proprietary Soulseek server, building on previous experience reverse-engineering and working with the protocol in Nicotine+. Highly optimized and compact, designed to support hundreds of thousands of users.
+
+*2024 – present*
+
+### [tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio metadata
+
+Maintainer and developer. Popular audio metadata reader for Python with an easy-to-use API. Accomplishments include numerous fixes related to incorrectly reading metadata, support for new audio file formats and features, as well as improvements to the API.
+
+*2021 – present*
+
+### [GNOME](https://www.gnome.org/) - Free and open source desktop environment
+
+Member and contributor. Currently maintaining the single-player tile-matching game [Mahjongg](https://apps.gnome.org/Mahjongg/), with accomplishments including performance optimizations, bug fixes, mentoring and keeping up with changes in the [GNOME HIG](https://developer.gnome.org/hig/).
 
 Occasionally contributing to [GTK](https://gtk.org/), [PyGObject](https://pygobject.gnome.org/) and elsewhere when needed.
 
 *2020 – present*
 
-### [tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio metadata
+### [Cuberite](https://github.com/cuberite) - Lightweight Minecraft server implementation
 
-Maintainer and developer. Accomplishments include numerous fixes related to incorrectly reading metadata, support for new audio file formats and features, as well as improvements to the API.
-
-*2021 – present*
-
-### [Cuberite](https://github.com/cuberite) - Lightweight server implementation for Minecraft
-
-Co-maintainer and developer. Occasionally working on the Android app. Previous contributions to the server 
-core, plugins, documentation, CI/builds and main website.
+Co-maintainer and developer. Third-party Minecraft server project that introduced me to open source development. Occasionally working on the Android app, with previous contributions to the server core, plugins, documentation, CI/builds and main website.
 
 *2014 – present*
 
