@@ -139,6 +139,10 @@ Website for the CutURL URL shortener.
 
 For smaller projects and contributions not listed above.
 
+### [GNOME Blog](https://blogs.gnome.org/mathias/)
+
+GNOME development updates and reflections.
+
 ### [&#109;&#97;&#x69;&#108;&#x40;&#109;&#97;&#116;&#x68;&#105;&#97;&#x73;&#x2e;&#105;&#x73;](&#109;&#x61;&#x69;&#108;&#116;&#x6f;:&#109;&#97;&#x69;&#108;&#x40;&#109;&#97;&#116;&#x68;&#105;&#97;&#x73;&#x2e;&#105;&#x73;)
 
 If you need to contact me.
