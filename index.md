@@ -31,7 +31,7 @@ Maintainer and developer. Popular audio metadata reader for Python with an easy-
 
 ### [GNOME](https://www.gnome.org/) - Free and open source desktop environment
 
-Member and contributor. Currently maintaining the single-player tile-matching game [Mahjongg](https://apps.gnome.org/Mahjongg/), with accomplishments including performance optimizations, bug fixes, mentoring and keeping up with changes in the [GNOME HIG](https://developer.gnome.org/hig/).
+Foundation member and contributor. Currently maintaining the single-player tile-matching game [Mahjongg](https://apps.gnome.org/Mahjongg/), with accomplishments including performance optimizations, bug fixes, mentoring and ensuring Mahjongg meets GNOME's design standards.
 
 Occasionally contributing to [GTK](https://gtk.org/), [PyGObject](https://pygobject.gnome.org/) and elsewhere when needed.
 
