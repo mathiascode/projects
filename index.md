@@ -110,7 +110,7 @@ Plugin that creates particle trails behind players.
 Plugin that adds weapons to a server.
 
 
-## Websites (2011 – 2020)
+## Websites (2009 – 2020)
 
 Various websites I have designed and implemented from scratch.
 
@@ -131,6 +131,12 @@ Website for the Kaboom multiplayer server.
 Website for the CutURL URL shortener.
 
 *2011 – 2014*
+
+### Miscellaneous
+
+Various websites that are no longer available. Includes personal sites, fansites and forums.
+
+*2009 – 2015*
 
 
 ## Links
