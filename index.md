@@ -39,9 +39,9 @@ Occasionally contributing to [GTK](https://gtk.org/), [PyGObject](https://pygobj
 
 ### [Cuberite](https://github.com/cuberite) - Lightweight Minecraft server implementation
 
-Co-maintainer and developer. Third-party Minecraft server project that introduced me to open source development. Occasionally working on the Android app, with previous contributions to the server core, plugins, documentation, CI/builds and main website.
+Co-maintainer and developer. Third-party Minecraft server project that introduced me to open source development. Previous contributions to the server core, plugins, Android app, documentation, CI/builds and main website.
 
-*2014 – present*
+*2014 – 2024*
 
 
 ## Bukkit Plugins (2018 – 2022)
