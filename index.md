@@ -13,13 +13,13 @@ A few open source projects I spend my free time on.
 
 ### [Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek P2P network
 
-Maintainer and developer. Popular third-party Soulseek client with quality of life features and low resource usage. Numerous accomplishments over the years, including feature requests, bug fixes, coordination, UX/UI improvements, performance optimizations, as well as modernizing the codebase and tooling.
+Maintainer and developer. Popular third-party Soulseek client with quality of life features and low resource usage. Numerous accomplishments over the years, including feature requests, bug fixes, coordination, UX/UI improvements, protocol reverse engineering, performance optimizations, as well as modernizing the codebase and tooling.
 
 *2020 – present*
 
 ### [Soulfind](https://github.com/soulfind-dev/soulfind) - Soulseek server implementation in D
 
-Maintainer and developer. Turned Soulfind into an open source reference implementation of the proprietary Soulseek server, building on previous experience reverse-engineering and working with the protocol in Nicotine+. Highly optimized and compact, designed to support hundreds of thousands of users.
+Maintainer and developer. Turned Soulfind into an open source reference implementation of the proprietary Soulseek server, building on previous experience reverse engineering and working with the Soulseek protocol in Nicotine+. Highly optimized and compact, designed to support hundreds of thousands of users.
 
 *2024 – present*
 
