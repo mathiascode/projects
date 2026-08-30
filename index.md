@@ -13,7 +13,7 @@ A few open source projects I spend my free time on.
 
 ### [Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek P2P network
 
-Maintainer and developer. Popular third-party Soulseek client with quality of life features and low resource usage. Accomplishments include project stewardship, designing and implementing requested features, numerous bug fixes, UX/UI improvements, performance optimizations, protocol reverse engineering, as well as long-term modernization of the codebase and infrastructure.
+Maintainer and developer. Popular third-party Soulseek client with quality of life features and low resource usage. Accomplishments include project stewardship, designing and implementing requested features, reverse engineering and implementing network protocols, numerous bug fixes, UX/UI improvements, performance optimizations, as well as long-term modernization of the codebase and infrastructure.
 
 *2020 – present*
 
@@ -25,7 +25,7 @@ Maintainer and developer. Turned Soulfind into an open source reference implemen
 
 ### [tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio metadata
 
-Maintainer and developer. Popular audio metadata reader for Python with an easy-to-use API. Accomplishments include numerous fixes related to incorrectly reading metadata, support for new audio file formats and features, as well as improvements to the API.
+Maintainer and developer. Popular audio metadata reader for Python with an easy-to-use API. Accomplishments include numerous fixes related to incorrectly reading metadata, support for new audio file formats and features, as well as improvements to the API, while maintaining high reliability and test coverage.
 
 *2021 – present*
 
