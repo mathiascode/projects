@@ -13,7 +13,7 @@ A few open source projects I spend my free time on.
 
 ### [Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek P2P network
 
-Maintainer and developer. Popular third-party Soulseek client with quality of life features and low resource usage. Accomplishments include project stewardship, designing and implementing requested features, reverse engineering and implementing network protocols, numerous bug fixes, UX/UI improvements, performance optimizations, as well as long-term modernization of the codebase and infrastructure.
+Maintainer and developer. Popular Soulseek client that focuses on usability, quality of life features and low resource usage. Accomplishments include project stewardship, designing and implementing requested features, reverse engineering and implementing network protocols, numerous bug fixes, UX/UI improvements, performance optimizations, as well as long-term modernization of the codebase and infrastructure.
 
 *2020 – present*
 
